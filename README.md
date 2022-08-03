@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NozimjonDD
 - 👀 I’m interested in Python specially web and data analysis
-- 🌱 I’m currently learning Python Django(Web)
+- 🌱 I’m currently learning Python[..v3] Django(Web)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🌱 I can work with Django,Celery,Redis REST(Fast) API..
