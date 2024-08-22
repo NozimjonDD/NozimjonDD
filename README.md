@@ -2,7 +2,7 @@
 
 <img  src="./gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://github.com/NozimjonDD/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
