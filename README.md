@@ -1,13 +1,6 @@
-<div align="center">
-  <img src ="./banner.png" />
-  
-</div>
-
- <br/>
-
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
