@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
-
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
